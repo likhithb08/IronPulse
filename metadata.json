@@ -1,0 +1,6 @@
+{
+  "name": "IronPulse Fitness",
+  "description": "High-performance luxury fitness club and strength training gym featuring elite coaching, immersive training spaces, dynamic memberships, and an AI-powered fitness trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
